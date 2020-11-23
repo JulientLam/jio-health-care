@@ -1,0 +1,55 @@
+.jio-card-title {
+    font-size: 15px;
+    max-height: initial;
+    color: black;
+}
+
+.jio-productitem {
+    height: 100%;
+    width: 207px;
+}
+
+.jio-productitem a {
+    list-style-type: none;
+}
+
+.jio-productitem a:hover {
+    color: unset !important;
+}
+
+.jio-line-clamp {
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.jio-text-grey {
+    color: #8e8e8e;
+}
+
+.new-price {
+    color: #194ccc;
+    margin-bottom: 0;
+}
+
+.Page>ul li {
+    margin: 10px 6px 0px;
+}
+
+.jio-productitem>button {
+    margin: auto;
+    width: fit-content;
+    margin-bottom: 10px
+}
+
+.card .jio-productitem {
+    position: static !important;
+}
+
+.jio-productitem-image {
+    height: 170px;
+    opacity: 1;
+    transition-delay: 0.1s;
+    background-size: contain;
+    background-repeat: no-repeat
+}

@@ -1,0 +1,60 @@
+.jio-header-sticky {
+    display: block;
+    position: sticky;
+    top: 0px;
+    z-index: 1000
+}
+
+.jio-header-top {
+    display: block;
+    height: 40px;
+    background-color: #f8f8f8;
+    padding-top: 8px;
+}
+
+.jio-header-top .jio-text-grey {
+    color: gray;
+}
+
+.jio-header-top .jio-font-bold {
+    text-decoration-line: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jio-header-top span {
+    margin-left: 9px;
+}
+
+.jio-header-top .jio-nav-margin {
+    float: right;
+    margin: 0px 34px;
+}
+
+.jio-header-top-nav {
+    display: block;
+    margin: 0px
+}
+
+.jio-header-top-nav a {
+    color: black;
+    border: none !important;
+    height: 100%;
+}
+
+.jio-header-top-nav .active {
+    color: white !important;
+    background-color: #567fea !important;
+}
+
+.jio-header-top-logo {
+    margin: 0px 128px 0px 15px;
+}
+
+.jio-header-top-logo h4 {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-style: italic;
+    font-family: auto;
+    font-weight: 700;
+}

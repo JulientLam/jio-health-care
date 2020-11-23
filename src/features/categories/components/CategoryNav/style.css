@@ -1,0 +1,21 @@
+.jio-nav {
+    border: 1px solid #acaeb1;
+    border-radius: 15px;
+    margin-left: 5px;
+    padding: 20px;
+}
+
+.jio-nav-flex-column li {
+    margin: 10px 6px 0px;
+}
+
+.jio-nav-flex-column ul li {
+    text-align: left;
+    padding: 20px 7px
+}
+
+.jio-nav-flex-column a {
+    padding: 0px !important;
+    color: #007bff;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.jio-modal-cart {
+    min-width: 73%;
+    float: right;
+    z-index: 20000;
+    margin-top: 5px !important;
+    margin-bottom: 0px!important;
+}
+
+.jio-item-card {
+    flex-direction: row !important;
+    border: 0px !important;
+}
+
+.jio-text-cart-item {
+    font-weight: 700;
+    font-size: medium;
+    margin-bottom: 0px;
+}
+
+.jio-modal-header-text {
+    font-weight: 700;
+    color: gray;
+}
+
+.jio-large-text {
+    font-size: larger;
+    font-weight: 700;
+    padding: 19px !important;
+}
+
+.jio-medium-text {
+    font-weight: 600;
+    color: gray;
+    font-size: medium;
+}
+
+.jio-scroll {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 290px;
+}
+
+.jio-list-title-modal {
+    padding: 24px 16px 0px !important;
+}
+
+.modal {
+    height: 98% !important;
+}
+
+.jio-button-link {
+    background-color: white !important;
+    border: none !important;
+    padding: 0px !important;
+}

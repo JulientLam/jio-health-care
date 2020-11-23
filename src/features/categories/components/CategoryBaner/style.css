@@ -1,0 +1,25 @@
+.jio-lable-category {
+    /* margin-top: 20px; */
+    font-family: revert;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+}
+
+.jio-flex-column {
+    flex-direction: column !important;
+}
+
+.jio-banner {
+    border-radius: 15px;
+}
+
+.jio-img-banner {
+    height: 250px;
+    opacity: 1;
+    transition-delay: 0.1s;
+    border-radius: inherit;
+    margin: 24px 0px;
+    filter: brightness(-14.3);
+    width: 100% !important
+}

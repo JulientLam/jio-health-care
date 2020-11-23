@@ -1,0 +1,49 @@
+.jio-header-nav {
+    background-color: #567fea;
+    height: 63px;
+    justify-items: center;
+}
+
+.jio-header-nav .nav-item {
+    margin: 10px 1% 0px;
+}
+
+.jio-btn-prescription,
+.jio-btn-cart {
+    float: right;
+    /* margin-right: 20px; */
+}
+
+.jio-search {
+    inline-size: 45%;
+}
+
+.jio-input-form {
+    background-color: white;
+    border-radius: 7px;
+    width: inherit;
+    justify-content: center;
+}
+
+input {
+    margin: 0px;
+    border: 0px !important;
+    size: 50;
+}
+
+button img {
+    margin-right: 10px;
+}
+
+#jio-search {
+    background-color: white;
+    width: 22px;
+    height: 22px;
+    align-self: center;
+    margin-right: 10px;
+}
+
+.jio-dropdown {
+    border-radius: 0px;
+    margin-left: 4px;
+}

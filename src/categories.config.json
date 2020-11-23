@@ -1,0 +1,1206 @@
+[{
+        "categoryID": 71,
+        "name": "Tra cứu thuốc kê đơn",
+        "metaTitle": null,
+        "metaDescription": null,
+        "parentCategoryID": null,
+        "slug": "tra-cuu-thuoc-ke-don",
+        "iconURLs": null,
+        "bgURLs": null,
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/71/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/71/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/71/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/71/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_s.jpg",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 72,
+                "name": "Thuốc chống dị ứng",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-chong-di-ung",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 73,
+                "name": "Thuốc cảm, ho",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-cam-ho",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 74,
+                "name": "Thuốc tai,mũi,họng",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-taimuihong",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 75,
+                "name": "Thuốc nhỏ mắt",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-nho-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 76,
+                "name": "Thuốc da liễu",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-da-lieu",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 77,
+                "name": "Thuốc gan mật",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-gan-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 78,
+                "name": "Thuốc đường tiêu hóa",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-duong-tieu-hoa",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 79,
+                "name": "Thuốc thần kinh, trầm cảm, động kinh, parkinson",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-than-kinh-tram-cam-dong-kinh-parkinson",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 80,
+                "name": "Thuốc kháng viêm- giảm đau",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-khang-viem-giam-dau",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 81,
+                "name": "Thuốc trị gout- thuốc xương khớp",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-tri-gout-thuoc-xuong-khop",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 82,
+                "name": "Thuốc huyết áp- tim mạch, thuốc lợi tiểu",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-huyet-ap-tim-mach-thuoc-loi-tieu",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 83,
+                "name": "Thuốc chống đông máu, phòng ngừa huyết khối",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-chong-dong-mau-phong-ngua-huyet-khoi",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 84,
+                "name": "Thuốc hạ mỡ máu",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-ha-mo-mau",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 85,
+                "name": "Thuốc trị tiểu đường",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-tri-tieu-duong",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 86,
+                "name": "Thuốc cầm máu",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-cam-mau",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 87,
+                "name": "Thuốc kháng sinh, kháng virus, kháng nấm",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-khang-sinh-khang-virus-khang-nam",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 88,
+                "name": "Thuốc trị giãn tĩnh mạch, trị trĩ",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-tri-gian-tinh-mach-tri-tri",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 89,
+                "name": "Thuốc trị hen suyễn & bệnh phổi tắc nghẽn mạn tính",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-tri-hen-suyen-benh-phoi-tac-nghen-man-tinh",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 90,
+                "name": "Thuốc chống rối loạn cương dương- bàng quang & tuyến tiền liệt",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-chong-roi-loan-cuong-duong-bang-quang-tuyen-tien-liet",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 91,
+                "name": "Thuốc hoocmon, nội tiết tố",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-hoocmon-noi-tiet-to",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 92,
+                "name": "Thuốc ngừa thai",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-ngua-thai",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 93,
+                "name": "Thuốc phụ khoa",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-phu-khoa",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 94,
+                "name": "Thuốc bổ sung vitamin và khoáng chất",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-bo-sung-vitamin-va-khoang-chat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 95,
+                "name": "Thuốc đông y",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "thuoc-dong-y",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 96,
+                "name": "Các thuốc khác",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 71,
+                "slug": "cac-thuoc-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 2,
+        "name": "Thực phẩm chức năng",
+        "metaTitle": "Mua Thực Phẩm Chức Năng Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+        "metaDescription": "Thực phẩm chức năng cao cấp, chính hãng, đa dạng, có giấy phép, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "thuc-pham-chuc-nang",
+        "iconURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/2/icon_1_m.png",
+            "number": 1
+        }],
+        "bgURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/2/bg_1_m.png",
+            "number": 1
+        }],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_l.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/2/banner_1_s.png",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 20,
+                "name": "Tăng cường trí nhớ",
+                "metaTitle": "Mua Sản Phẩm Tăng Cường Trí Nhớ Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Tăng cường trí nhớ chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "tang-cuong-tri-nho",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 14,
+                "name": "Hỗ trợ xương khớp",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Xương Khớp Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ xương khớp cao cấp, chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "ho-tro-xuong-khop",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 12,
+                "name": "Giảm cân",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Giảm Cân Chính Hãng | Nhà Thuốc Trực Tuyến Jio",
+                "metaDescription": "Sản phẩm hỗ trợ giảm cân, dinh dưỡng, cao cấp, chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "giam-can",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 18,
+                "name": "Vitamin và khoáng chất",
+                "metaTitle": "Mua Vitamin Và Khoáng Chất Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Vitamin và khoáng chất chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "vitamin-va-khoang-chat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 19,
+                "name": "Hỗ trợ mắt",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Mắt Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ mắt chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "ho-tro-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 16,
+                "name": "Tăng cân",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Tăng Cân Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Thực phẩm hỗ trợ tăng cân hiệu quả, có giấy phép, đa dạng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "tang-can",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 17,
+                "name": "Chăm sóc da & tóc",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Da & Tóc Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc da & tóc chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "cham-soc-da-toc",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 15,
+                "name": "Hỗ trợ tai, mũi, họng",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Tai, Mũi, Họng Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ tai, mũi, họng chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "ho-tro-tai-mui-hong",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 70,
+                "name": "Hỗ trợ tiêu hóa",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Tiêu Hóa Hiệu Quả, Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ tiêu hóa hiệu quả lâu dài, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "ho-tro-tieu-hoa",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 13,
+                "name": "Hỗ trợ gan mật",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Gan Mật Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ gan mật chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "ho-tro-gan-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 21,
+                "name": "Huyết áp, tiểu đường",
+                "metaTitle": "Mua Tim Mạch - Huyết Áp - Tiểu Đường Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Tim mạch - Huyết áp - Tiểu đường chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "huyet-ap-tieu-duong",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 22,
+                "name": "Thực phẩm chức năng khác",
+                "metaTitle": "Mua Thực Phẩm Chức Năng Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thực phẩm chức năng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 2,
+                "slug": "thuc-pham-chuc-nang-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 3,
+        "name": "Chăm sóc cá nhân",
+        "metaTitle": "Mua Sản Phẩm Chăm Sóc Cá Nhân Chính Hãng | Nhà Thuốc Online Jio",
+        "metaDescription": "Sản phẩm Chăm sóc cá nhân cao cấp, chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "cham-soc-ca-nhan",
+        "iconURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/3/icon_1_m.png",
+            "number": 1
+        }],
+        "bgURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/3/bg_1_m.png",
+            "number": 1
+        }],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_l.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/3/banner_1_s.png",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 27,
+                "name": "Chăm sóc phụ nữ",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Phụ Nữ Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc phụ nữ chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "cham-soc-phu-nu",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 10,
+                "name": "Chăm sóc em bé",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Bé Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc em bé cao cấp, chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "cham-soc-em-be",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 25,
+                "name": "Chăm sóc nam giới",
+                "metaTitle": "Mua Sản Khử Mùi Cho Nam Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Khử mùi cho nam chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "cham-soc-nam-gioi",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 23,
+                "name": "Chăm sóc răng miệng",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Răng Miệng Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc răng miệng chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "cham-soc-rang-mieng",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 24,
+                "name": "Chăm sóc tóc",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Tóc Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc tóc chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "cham-soc-toc",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 26,
+                "name": "Sản phẩm khác",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Cơ Thể Toàn Diện Cao Cấp | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc cơ thể toàn diện chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 3,
+                "slug": "san-pham-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 98,
+                "name": "Nước sát khuẩn tay",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 3,
+                "slug": "nuoc-sat-khuan-tay",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 99,
+                "name": "Tăm bông kháng khuẩn",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 3,
+                "slug": "tam-bong-khang-khuan",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 5,
+        "name": "Tủ thuốc gia đình",
+        "metaTitle": "Mua Thuốc Gia Đình Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+        "metaDescription": "Thuốc gia đình cao cấp, chính hãng, nhiều thương hiệu, có giấy phép, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên, dược sĩ tư vấn online. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "tu-thuoc-gia-dinh",
+        "iconURLs": [{
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/icon_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/icon_1_m.png",
+                "number": 1
+            }
+        ],
+        "bgURLs": [{
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/bg_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/bg_1_m.png",
+                "number": 1
+            }
+        ],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/5/banner_1_m.jpg",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 42,
+                "name": "Thuốc thông dụng",
+                "metaTitle": "Mua Thuốc Thông Dụng Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc thông dụng chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-thong-dung",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 33,
+                "name": "Thuốc giảm đau, hạ sốt",
+                "metaTitle": "Mua Thuốc Giảm Đau, Hạ Sốt Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc giảm đau, hạ sốt hiệu quả, không buồn ngủ, chính hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi hấp dẫn, dược sĩ tư vấn online. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-giam-dau-ha-sot",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 32,
+                "name": "Thuốc cảm, ho",
+                "metaTitle": "Mua Thuốc Cảm, Ho Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc cảm, ho hiệu quả, chính hãng, có giấy phép, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên, dược sĩ tư vấn online. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-cam-ho",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 38,
+                "name": "Thuốc xương khớp",
+                "metaTitle": "Mua Thuốc Xương Khớp Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc xương khớp cao cấp, chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-xuong-khop",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 35,
+                "name": "Thuốc nhỏ mắt",
+                "metaTitle": "Mua Thuốc Nhỏ Mắt Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc nhỏ mắt chính hãng, có giấy phép, nhiều thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-nho-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 31,
+                "name": "Thuốc dị ứng",
+                "metaTitle": "Mua Thuốc Dị Ứng Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc dị ứng hiệu quả, chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên, dược sĩ tư vấn online. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-di-ung",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 34,
+                "name": "Thuốc tuần hoàn não",
+                "metaTitle": "Mua Thuốc Thuốc Thần Kinh Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc thần kinh hiệu quả, chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-than-kinh",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 37,
+                "name": "Thuốc gan mật",
+                "metaTitle": "Mua Thuốc Tiêu Hoá Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc tiêu hoá hiệu quả cao, có giấy phép, đa dạng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-gan-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 66,
+                "name": "Thuốc tai, mũi, họng",
+                "metaTitle": "Mua Thuốc Tai, Mũi, Họng Hiệu Quả Cao, Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc tai mũi họng hiệu quả cao, có giấy phép, đa dạng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-tai-mui-hong",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 36,
+                "name": "Thuốc da liễu",
+                "metaTitle": "Mua Thuốc Da Liễu Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc da liễu chính hãng, cao cấp, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-da-lieu",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 41,
+                "name": "Vitamin và khoáng chất",
+                "metaTitle": "Mua Vitamin Và Khoáng Chất Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Vitamin và Khoáng Chất chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "vitamin-va-khoang-chat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 67,
+                "name": "Thuốc đông y",
+                "metaTitle": "Mua Thuốc Đông Y Điều Trị Hiệu Quả, Có Giấy Phép | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc đông y chính hãng, cao cấp, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "thuoc-dong-y",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 43,
+                "name": "Các thuốc khác",
+                "metaTitle": "Mua Thuốc Chính Hãng, Có Giấy Phép, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thuốc thông dụng, nên có trong gia đình chính hãng, có giấy phép, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 5,
+                "slug": "cac-thuoc-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 7,
+        "name": "Chăm sóc sắc đẹp",
+        "metaTitle": "Mua Sản Phẩm Chăm Sóc Sắc Đẹp Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+        "metaDescription": "Sản phẩm Chăm sóc sắc đẹp cao cấp, chính hãng, đa dạng thương hiệu, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "cham-soc-sac-dep",
+        "iconURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/7/icon_1_m.png",
+            "number": 1
+        }],
+        "bgURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/7/bg_1_m.png",
+            "number": 1
+        }],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_l.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/7/banner_1_s.png",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 49,
+                "name": "Dược mỹ phẩm",
+                "metaTitle": "Mua Dược Mỹ Phẩm Cao Cấp, Chính Hãng, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Dược mỹ phẩm cao cấp, chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 7,
+                "slug": "duoc-my-pham",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 47,
+                "name": "Chăm sóc da mặt",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Da Mặt Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc da mặt chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 7,
+                "slug": "cham-soc-da-mat",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 48,
+                "name": "Chăm sóc cơ thể",
+                "metaTitle": "Mua Sản Phẩm Chăm Sóc Cơ Thể Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Chăm sóc cơ thể chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 7,
+                "slug": "cham-soc-co-the",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 69,
+                "name": "Dụng cụ làm đẹp",
+                "metaTitle": "Mua Dụng Cụ Làm Đẹp Bền, Đẹp, Đa Chức Năng | Nhà Thuốc Online Jio",
+                "metaDescription": "Dụng cụ làm đẹp tốt, chính hãng, nhiều sản phẩm HOT, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 7,
+                "slug": "dung-cu-lam-dep",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 68,
+                "name": "Sản phẩm khác",
+                "metaTitle": "Mua Sản Phẩm Làm Đẹp Cao Cấp, Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm làm đẹp tốt, chính hãng, chất lượng tốt, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 7,
+                "slug": "san-pham-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 8,
+        "name": "Sức khỏe giới tính",
+        "metaTitle": "Mua Sản Phẩm Chăm Sóc Sức Khỏe Sinh Sản Cao Cấp | Nhà Thuốc Online Jio",
+        "metaDescription": "Sản phẩm Chăm sóc sức khỏe sinh sản cao cấp, chính hãng với giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "suc-khoe-gioi-tinh",
+        "iconURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/8/icon_1_m.png",
+            "number": 1
+        }],
+        "bgURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/8/bg_1_m.png",
+            "number": 1
+        }],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_l.png",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_m.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_m.png",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_s.jpg",
+                "number": 1
+            },
+            {
+                "size": "S",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/8/banner_1_s.png",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 50,
+                "name": "Hỗ trợ sinh lí",
+                "metaTitle": "Mua Sản Phẩm Hỗ Trợ Sinh Lí Cao Cấp | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Hỗ trợ sinh lí cao cấp, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 8,
+                "slug": "ho-tro-sinh-li",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 51,
+                "name": "Kế hoạch hoá gia đình",
+                "metaTitle": "Mua Sản Phẩm Kế Hoạch Hoá Gia Đình Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Sản phẩm Kế hoạch hoá gia đình chính hãng, có giấy phép, nhiều hãng, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+                "parentCategoryID": 8,
+                "slug": "ke-hoach-hoa-gia-dinh",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    },
+    {
+        "categoryID": 53,
+        "name": "Dụng cụ y tế",
+        "metaTitle": "Mua Dụng Cụ Y Tế Cao Cấp, Chính Hãng, Giá Tốt 2020 | Nhà Thuốc Online Jio",
+        "metaDescription": "Dụng cụ y tế, chất lượng cao cấp, bền bỉ, chính hãng với giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, ưu đãi cho thành viên. Mua ngay!",
+        "parentCategoryID": null,
+        "slug": "dung-cu-y-te",
+        "iconURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/53/icon_1_m.png",
+            "number": 1
+        }],
+        "bgURLs": [{
+            "size": "M",
+            "url": "https://cdn.jiohealth.com/pharmacy/category/53/bg_1_m.png",
+            "number": 1
+        }],
+        "bannerURLs": [{
+                "size": "L",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/53/banner_1_l.jpg",
+                "number": 1
+            },
+            {
+                "size": "M",
+                "url": "https://cdn.jiohealth.com/pharmacy/category/53/banner_1_m.jpg",
+                "number": 1
+            }
+        ],
+        "subcategories": [{
+                "categoryID": 54,
+                "name": "Bông gòn",
+                "metaTitle": "Mua Bông Gòn Y Tế, Tự Nhiên, Cao Cấp, Chính Hãng | Nhà Thuốc Online Jio",
+                "metaDescription": "Bông gòn y tế tự nhiên, chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "bong-gon",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 55,
+                "name": "Băng gạc y tế",
+                "metaTitle": "Mua Băng Gạc Y Tế Cao Cấp, Đa Dạng Kích Cỡ, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Bông gạc y tế nhiều kích thước, chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "bang-gac-y-te",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 56,
+                "name": "Khẩu trang",
+                "metaTitle": "Mua Khẩu Trang Y Tế Kháng Khuẩn, Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Khẩu trang y tế kháng khuẩn, chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "khau-trang",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 57,
+                "name": "Găng tay y tế",
+                "metaTitle": "Mua Găng Tay Y Tế Kháng Khuẩn, Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Găng tay y tế chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "gang-tay-y-te",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 58,
+                "name": "Nhiệt kế",
+                "metaTitle": "Mua Nhiệt Kế Đo Chính Xác, Bền, Cao Cấp, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Nhiệt kế trẻ em & người lớn đo chính xác, chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "nhiet-ke",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 59,
+                "name": "Thiết bị y tế",
+                "metaTitle": "Mua Thiết Bị Y Tế Chính Xác, Bền, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Thiết bị y tế chính xác, chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "thiet-bi-y-te",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 62,
+                "name": "Sản phẩm khác",
+                "metaTitle": "Mua Dụng Cụ Thiết Bị Y Tế Chất Lượng Cao, Giá Tốt | Nhà Thuốc Online Jio",
+                "metaDescription": "Dụng cụ thiết bị y tế chính hãng, cao cấp, giá tốt tại Jio Pharmacy. Giao nhanh 2 giờ tại TPHCM, nhiều ưu đãi. Mua ngay!",
+                "parentCategoryID": 53,
+                "slug": "san-pham-khac",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            },
+            {
+                "categoryID": 97,
+                "name": "Dung dịch xịt, rửa mũi",
+                "metaTitle": null,
+                "metaDescription": null,
+                "parentCategoryID": 53,
+                "slug": "dung-dich-xit-rua-mui",
+                "iconURLs": null,
+                "bgURLs": null,
+                "bannerURLs": null,
+                "subcategories": null
+            }
+        ]
+    }
+]

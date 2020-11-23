@@ -1,0 +1,80 @@
+.jio-image {
+    width: 512px;
+    height: 453px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0 auto;
+    border: 1px solid #dcdcdc;
+    max-width: 100%;
+}
+
+.star-cell {
+    float: left;
+    margin-right: 10px;
+}
+
+.jio-new-price {
+    float: left;
+    color: #194ccc;
+}
+
+.jio-product-name {
+    font-size: 24px;
+    text-align: left;
+}
+
+.jio-owl-stage {
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0s ease 0s;
+    width: 3414px;
+}
+
+.jio-image-zoom {
+    width: 512px;
+    height: 512px;
+    background-repeat: no-repeat;
+    z-index: 2000;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    top: 0px;
+    left: 100%;
+    background-image: url("https://cdn.jiohealth.com/pharmacy/product/P01026C/P01026C_1_l.jpg");
+    background-size: 1684.65px 1684.65px;
+    background-position: -1007.48px -1172.65px;
+}
+
+.jio-card-header {
+    background-color: white !important;
+    padding-left: 0px !important;
+}
+
+.jio-card {
+    border: 0px !important;
+    border-bottom: 0.4px lightgray !important;
+    padding-left: 0px !important;
+}
+
+.jio-card-header h5 {
+    text-align: left;
+}
+
+.jio-card-header button {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: system-ui;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.jio-view-direction {
+    margin-top: 30px;
+}
+
+.jio-product-detail-container {
+    position: unset;
+}
